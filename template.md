@@ -1,5 +1,5 @@
-# Make sure you make changes to this file
+# Make a replica of this file and create one with your own name 
 ## Please input your name below:
-Nirvaan Lagishetty
+
 ## Tell us something about yourself:
-I'm Nirvaan from FY Data science , i like video games and manga and i'm joining IEEE to improve my technical skills
+
